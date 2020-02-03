@@ -1,0 +1,7 @@
+postal code, postal address
+12341,Farsta
+13172,Nacka
+11263,Lilla Essingen
+11157,Downtown Stockholm
+1262PU,West Amsterdam
+1082MT,Zuidas

@@ -1,0 +1,7 @@
+instructorId, name
+1,Mies Erik Justus Mandoki Cirillo
+2,Adam Simon Dolah
+3,Daniel Näsman
+4,Marcus Hammarberg
+5,Levy Fekete
+6,Zachary Eriksson

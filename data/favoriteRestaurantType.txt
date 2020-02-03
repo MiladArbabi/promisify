@@ -1,0 +1,7 @@
+instructorId,favorite type of restaurant
+1,McD
+2,Spettekake
+3,SPIIIIICY
+4,Indonesian
+5,Romanian
+6,Vegan

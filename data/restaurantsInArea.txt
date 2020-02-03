@@ -1,0 +1,43 @@
+postal adress,type of restaurant,restaurant name
+Farsta,McD,The Old Mc Donalds in Farsta
+Farsta,McD,The New Mc Donalds in Farsta
+Farsta,Indonesian,Bali Bali Bali in Farsta
+Farsta,SPIIIIICY,Hot stuff in Farsta
+Farsta,Romanian,Draculas Revenge in Farsta
+Farsta,Vegan,All food is cardboard in Farsta
+Farsta,Spettekake,The cake that was made of stone in Farsta
+Nacka,McD,The Old Mc Donalds in Nacka
+Nacka,Indonesian,Bali Bali Bali in Nacka
+Nacka,SPIIIIICY,Hot stuff in Nacka
+Nacka,Romanian,Draculas Revenge in Nacka
+Nacka,Vegan,All food is cardboard in Nacka
+Nacka,Spettekake,The cake that was made of stone in Nacka
+Nacka,Spettekake,Gåsapågen
+Lilla Essingen,McD,The Old Mc Donalds on Lilla Essingen
+Lilla Essingen,Indonesian,Bali Bali Bali on Lilla Essingen
+Lilla Essingen,Indonesian,Soto Ayam
+Lilla Essingen,SPIIIIICY,Hot stuff on Lilla Essingen
+Lilla Essingen,Romanian,Draculas Revenge on Lilla Essingen
+Lilla Essingen,Vegan,All food is cardboard on Lilla Essingen
+Lilla Essingen,Spettekake,The cake that was made of stone on Lilla Essingen
+Downtown Stockholm,McD,The Old Mc Donalds in Downtown Stockholm
+Downtown Stockholm,Indonesian,Bali Bali Bali in Downtown Stockholm
+Downtown Stockholm,SPIIIIICY,Hot stuff in Downtown Stockholm
+Downtown Stockholm,SPIIIIICY,Habaneros
+Downtown Stockholm,SPIIIIICY,Kimichi makes my mouth hurt
+Downtown Stockholm,Romanian,Draculas Revenge in Downtown Stockholm
+Downtown Stockholm,Vegan,All food is cardboard in Downtown Stockholm
+Downtown Stockholm,Spettekake,The cake that was made of stone in Downtown Stockholm
+West Amsterdam,McD,The Old Mc Donalds in West Amsterdam
+West Amsterdam,Indonesian,Bali Bali Bali in West Amsterdam
+West Amsterdam,SPIIIIICY,Hot stuff in West Amsterdam
+West Amsterdam,Romanian,Draculas Revenge in West Amsterdam
+West Amsterdam,Vegan,All food is cardboard in West Amsterdam
+West Amsterdam,Spettekake,The cake that was made of stone in West Amsterdam
+Zuidas,McD,The Old Mc Donalds in Zuidas
+Zuidas,Indonesian,Bali Bali Bali in Zuidas
+Zuidas,SPIIIIICY,Hot stuff in Zuidas
+Zuidas,Romanian,Draculas Revenge in Zuidas
+Zuidas,Vegan, Mean and green
+Zuidas,Vegan,All food is cardboard in Zuidas
+Zuidas,Spettekake,The cake that was made of stone in Zuidas
